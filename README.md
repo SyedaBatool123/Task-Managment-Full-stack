@@ -33,7 +33,7 @@ A full-stack task management system with user authentication and admin privilege
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/Task-Manager-FullStack.git
+git clone https://github.com/SyedaBatool123/Task-Managment-Full-stack.git
 cd Task-Manager-FullStack
 
 Backend Setup
